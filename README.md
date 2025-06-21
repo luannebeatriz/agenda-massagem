@@ -22,7 +22,7 @@ Sistema de agendamento para massagistas e clientes, permitindo gerenciar horári
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
+git clone https://github.com/luannebeatriz/agenda-massagem
 cd agenda-massagem
 ```
 
